@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da6a813e-b8b2-42ec-a3b3-b215dda98f3e"
+      }
+    },
+    "owner": "horlacherr"
   }
 }
